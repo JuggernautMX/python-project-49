@@ -5,4 +5,4 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/7106e3c9c3fafdbc1f3c/maintainability)](https://codeclimate.com/github/JuggernautMX/python-project-49/maintainability)
 
 ### How to install
-[![Demo](https://github.com/JuggernautMX/python-project-49/blob/main/demo.gif)](https://asciinema.org/a/Z6BYkf1OjVDlY2ge83SJ5XABd)
+[![Demo](https://github.com/JuggernautMX/python-project-49/blob/main/demo.gif)](https://asciinema.org/a/vjMM8K7eKpvIx2IomFuLb57yW)
