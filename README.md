@@ -4,5 +4,6 @@
 ### Other badges
 [![Maintainability](https://api.codeclimate.com/v1/badges/7106e3c9c3fafdbc1f3c/maintainability)](https://codeclimate.com/github/JuggernautMX/python-project-49/maintainability)
 
-### How to install
-[![Demo](https://github.com/JuggernautMX/python-project-49/blob/main/demo.gif)](https://asciinema.org/a/vjMM8K7eKpvIx2IomFuLb57yW)
+### Demos
+[![brain-even demo](https://github.com/JuggernautMX/python-project-49/blob/main/brain-even.gif)](https://asciinema.org/a/vjMM8K7eKpvIx2IomFuLb57yW)
+[![brain-calc demo](https://github.com/JuggernautMX/python-project-49/blob/main/brain-calc.gif)](https://asciinema.org/a/YcadSSP420lW2fD3PvTbakB4F)
