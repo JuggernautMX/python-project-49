@@ -10,4 +10,4 @@ def data():
     if random_number == 0:
         answer = "no"
     answer = "yes" if random_number % 2 == 0 else "no"
-    return question, answer
+    return question, str(answer)
