@@ -7,6 +7,12 @@ brain-games:
 brain-even:
 	poetry run brain-even
 
+brain-calc:
+	poetry run brain-calc
+
+brain-progression:
+	poetry run brain-progression
+
 build:
 	rm -f ./dist/*
 	poetry build
