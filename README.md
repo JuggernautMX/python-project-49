@@ -16,3 +16,6 @@ brain-gcd
 
 brain-progression
 [![brain-progression demo](https://github.com/JuggernautMX/python-project-49/blob/main/demos/brain-progression.gif)](https://asciinema.org/a/5x4NRvCdAn8essMnJznzzhgov)
+
+brain-prime
+[![brain-prime demo](https://github.com/JuggernautMX/python-project-49/blob/main/demos/brain-prime.gif)](https://asciinema.org/a/ELJN9Y1vQpVPX8qqkXiAiBLWe)
