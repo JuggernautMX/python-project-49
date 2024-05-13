@@ -1,7 +1,7 @@
 from random import randint, choice
 
 
-RULE = "What is the result of the expression?"
+RULE = 'What is the result of the expression?'
 
 
 def data():
@@ -19,5 +19,5 @@ def data():
     if current_operation == '*':
         answer = random_number1 * random_number2
 
-    question = (f"{random_number1} {current_operation} {random_number2}")
+    question = (f'{random_number1} {current_operation} {random_number2}')
     return question, str(answer)

@@ -5,19 +5,19 @@ ANSWERS_REQUIRED = 3
 
 
 def engine(game):
-    print("Welcome to the Brain Games!")
-    name = prompt.string("May I have your name? ")
-    print(f"Hello, {name}!")
-    print(f"{game.RULE}")
+    print('Welcome to the Brain Games!')
+    name = prompt.string('May I have your name? ')
+    print(f'Hello, {name}!')
+    print(f'{game.RULE}')
     answers_given = 0
 
     while answers_given < ANSWERS_REQUIRED:
         question, answer = game.data()
-        print("Question: " + question)
-        current_answer = prompt.string("Your answer: ")
+        print('Question: ' + question)
+        current_answer = prompt.string('Your answer: ')
 
         if current_answer == answer:
-            print("Correct!")
+            print('Correct!')
             answers_given += 1
         else:
             print(
@@ -27,4 +27,4 @@ def engine(game):
             )
             break
     else:
-        print(f"Congratulations, {name}!")
+        print(f'Congratulations, {name}!')

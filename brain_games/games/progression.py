@@ -1,7 +1,7 @@
 from random import randint
 
 
-RULE = "What number is missing in the progression?"
+RULE = 'What number is missing in the progression?'
 
 
 def data():
@@ -19,6 +19,6 @@ def data():
 
     hidden_element = randint(0, progression_length - 1)
     answer = arithmetic_progression[hidden_element]
-    arithmetic_progression[hidden_element] = ".."
+    arithmetic_progression[hidden_element] = '..'
     question = ' '.join(str(x) for x in arithmetic_progression)
     return question, str(answer)
